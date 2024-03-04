@@ -9,6 +9,8 @@ app_file: app.py
 pinned: false
 ---
 
+![Google Gemini](/img/google_gemini.jpg)
+
 # Chatbot with Gemini
 
-[Google Gemini Chatbot - Playground](https://huggingface.co/spaces/thivav/chat_with_gemini)
+[Google Gemini Chatbot - 🤗 Playground](https://huggingface.co/spaces/thivav/chat_with_gemini)
