@@ -18,7 +18,7 @@ def main():
         "Enjoy :red[talking] with :green[Google Gemini] :sunglasses:"
     )
 
-    st.markdown("[check out the repository](https://github.com/ThivaV/gemini_chatbot)")
+    st.markdown("[Checkout the repository](https://github.com/ThivaV/gemini_chatbot)")
 
     gemini_key = st.text_input("Enter your Google Gemini API key 👇", type="password")
 
